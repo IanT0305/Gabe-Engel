@@ -136,6 +136,9 @@ a:active {
 
 .navbar {
     background-color: rgb(218, 202, 193);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
   }
 
   .navbar-brand {
