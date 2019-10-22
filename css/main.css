@@ -1,0 +1,168 @@
+/*** sectioning elements ***/
+
+body {
+    background-color: #0ca0f5;
+    max-width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+header {
+    
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+    color: #ebe7e7;
+    font-family: 'Kurale', serif;
+    font-size: 70px;
+    text-align: center;
+}
+
+h2 {
+    color: #ebe7e7;
+    font-family: 'Kurale', serif;
+    font-size: 70px;
+    text-align: center;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 27px;
+    line-height: 1.5;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 27px;
+    line-height: 3;
+    text-align: center
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+    max-width: 100%;
+}
+
+
+/*** link styles ***/
+a:link {
+    color: #034903;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+a:visited {
+    color: #070707;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+a:hover {
+    color: #ebe7e7;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+a:active {
+
+}
+
+.navbar {
+    background-color: rgb(218, 202, 193);
+  }
+
+  .navbar-brand {
+    color: #f20f29;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+
+  .navbar-brand a:link,
+  .navbar-brand a:visited {
+    color: #f20f29;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+
+  .navbar-brand a:hover,
+  .navbar-brand a:active {
+    color: #f20f29;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+
+  .navbar-menu a:link,
+  .navbar-menu a:visited {
+    color: #f20f29;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+
+  .navbar-menu a:hover,
+  .navbar-menu a:active {
+    color: #ebe7e7;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
